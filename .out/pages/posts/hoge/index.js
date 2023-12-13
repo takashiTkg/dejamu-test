@@ -1,0 +1,1 @@
+import{a as o,b as t}from"../../../chunk-BKAFGOKI.js";o(t);window.addEventListener("load",()=>{new WebSocket(`ws://${location.host}/$/__hot_reload__`).addEventListener("message",e=>{e.data=="reload"&&location.reload()})});
